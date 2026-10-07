@@ -1,0 +1,14 @@
+/target/
+*.class
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+# Os resultados finais serão evidências versionadas; não ignorar results/.
